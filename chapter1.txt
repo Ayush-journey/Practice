@@ -1,1 +1,2 @@
 Hi there, started learning git and github through udemy.
+Now, its time to learn branching and merging.
